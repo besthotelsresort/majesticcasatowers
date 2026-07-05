@@ -1,0 +1,4 @@
+Contact: mailto:security@majesticcasatowers.example
+Expires: 2027-07-05T20:41:00.464Z
+Preferred-Languages: en, de, fr
+Canonical: https://majesticcasatowers.onrender.com/.well-known/security.txt
