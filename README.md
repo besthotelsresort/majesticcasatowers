@@ -1,0 +1,2 @@
+# majesticcasatowers
+Static site: majesticcasatowers
