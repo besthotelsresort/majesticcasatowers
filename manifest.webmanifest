@@ -1,0 +1,26 @@
+{
+  "name": "Majestic Casa Towers",
+  "short_name": "Majestic",
+  "description": "Majestic Casa Towers: A private coast, a quiet welcome, an unhurried stay",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f1f5",
+  "theme_color": "#7d3c6a",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
